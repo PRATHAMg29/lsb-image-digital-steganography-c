@@ -4,7 +4,7 @@
 
  **Least Significant Bit (LSB) Image Digital Steganography is a project in C which is used to securely hide secret text inside a BMP image. The application supports both ****encoding** and **decoding** operations.
 
-The encoding process hides the contents of a secret text file into an image without any visible affect on the image quality. The decoding process extracts the hidden data from the encoded image.
+The encoding process hides the contents of a secret text file into an image without any visible effect on the image quality. The decoding process extracts the hidden data from the encoded image.
 
 ## Features
 
@@ -21,6 +21,7 @@ The encoding process hides the contents of a secret text file into an image with
 * Bitwise Operations
 * Structures
 * Command Line Arguments
+* Modular Programming
 
 ## Project Structure
 
